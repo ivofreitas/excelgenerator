@@ -21,5 +21,9 @@ public class GeneratorBusinessImpl implements GeneratorBusiness{
 		// TODO return file
 		return null;
 	}
+	
+	public void copyContent() {
+		
+	}
 
 }
